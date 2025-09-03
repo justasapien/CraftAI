@@ -1,4 +1,4 @@
-# CraftAI - AI-Powered Content & Image Creation SaaS
+# CraftAI - AI-Powered SaaS
 
 CraftAI is a full-stack Software-as-a-Service (SaaS) application that leverages the power of multiple AI APIs to provide a suite of tools for content generation, image manipulation, and document analysis. The application features a secure, tiered subscription model, offering both free and premium plans to users.
 
